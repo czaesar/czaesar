@@ -1,8 +1,9 @@
 ![Header](https://github.com/czaesar/czaesar/blob/main/assets/Spider-Man-3-Dance-600x338.gif)
 
-About me
+## I`m a begginer Backend developer
 
 
-Languages and Tools
+### Languages and Tools
+![Python](https://img.shields.io/badge/<LABEL>-Python-<COLOR>)
 
 Follow me
