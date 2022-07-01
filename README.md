@@ -4,6 +4,6 @@
 
 
 ### Languages and Tools
-![Python](https://img.shields.io/badge/<LABEL>-Python-<COLOR>)
+![Python](https://img.shields.io/badge/-Python-<COLOR>)
 
 Follow me
