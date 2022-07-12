@@ -1,4 +1,4 @@
-![Header](https://github.com/czaesar/czaesar/blob/main/assets/Spider-Man-3-Dance-600x338.gif)
+
 
 ## I`m a beginner Backend developer
 
