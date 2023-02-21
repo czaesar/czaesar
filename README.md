@@ -6,7 +6,7 @@
 ### Languages and Tools
 
 
-![PHP](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![PHP](https://img.shields.io/badge/-php-grey)
 ![Laravel](https://img.shields.io/badge/-DJANGO-092E20?style=for-the-badge&logo=DJANGO)
 ![xDebug](https://img.shields.io/badge/-DJANGO-092E20?style=for-the-badge&logo=DJANGO)
 ![PhpStorm](https://img.shields.io/badge/-DJANGO-092E20?style=for-the-badge&logo=DJANGO)
