@@ -7,7 +7,7 @@
 
 
 ![PHP](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=PHP)
-![Laravel]((https://img.shields.io/badge/-laravel-causes?style=for-the-badge&logo=LARAVEL))
+![Laravel](https://img.shields.io/badge/-laravel-orange?style=for-the-badge&logo=LARAVEL)
 ![xDebug](https://img.shields.io/badge/-DJANGO-092E20?style=for-the-badge&logo=DJANGO)
 ![PhpStorm](https://img.shields.io/badge/-DJANGO-092E20?style=for-the-badge&logo=DJANGO)
 ![VsCode](https://img.shields.io/badge/-DJANGO-092E20?style=for-the-badge&logo=DJANGO)
