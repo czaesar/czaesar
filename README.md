@@ -1,6 +1,6 @@
 
 
-## I`m a beginner Backend developer
+## I`m a Backend developer
 
 
 ### Languages
